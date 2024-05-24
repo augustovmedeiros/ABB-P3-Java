@@ -1,0 +1,2 @@
+10;aluno
+12;bolota
