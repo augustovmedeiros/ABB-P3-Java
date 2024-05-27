@@ -15,7 +15,7 @@ public class Dados {
                 String[] dados = linha.split(";");
                 String rgm = dados[0];
                 String nome = dados[1];
-                NoArvore.inserir(tree, rgm, nome);
+                tree.adicionar(rgm, nome);
             }
 
             bufferedReader.close();

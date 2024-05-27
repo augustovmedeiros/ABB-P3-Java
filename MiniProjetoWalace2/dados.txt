@@ -1,2 +1,10 @@
-10;aluno
-12;bolota
+493278;Maria
+211986;Pedro
+648725;João
+789013;Ana
+403812;Carlos
+132045;Sofia
+958271;Miguel
+619374;Julia
+872163;Lucas
+530941;Rafael
